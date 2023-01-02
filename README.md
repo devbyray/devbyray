@@ -8,7 +8,7 @@ Hello there! My name is Ray and I'm a Frontend Developer based in the Netherland
 
 *   🌍  I'm based in The Netherlands
 *   🖥️  See my portfolio at [blog](http://byrayray.dev)
-*   ✉️  You can contact me at [ray@byrayray.dev](mailto:ray@byrayray.dev)
+*   ✉️  You can contact me at Twitter [@DevByRayRay](https://twitter.com/devbyrayray)
 *   🚀  I'm currently working on [Dev blog](http://byrayray.dev) & a secret AI project 😅
 *   🧠  I'm always learning more in-depth TypeScript & JavaScript
 *   🤝  I'm open to collaborating on Mentorship
