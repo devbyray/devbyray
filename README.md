@@ -1,10 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ray
 ===========================================================================================================================
 
-Lead Frontend Developer, Blogger
+🇳🇱 Tech Lead, Frontend Developer, Blogger
 --------------------------------
 
-Hello there! My name is Ray and I'm a Frontend Developer based in the Netherlands. I've been working in this field since 2009 and have a strong passion for all things frontend development, including JavaScript, TypeScript, Angular, CSS, and VueJS. If you're interested in reading more about these topics, be sure to check out my blog. I'm always happy to engage in meaningful discussions and answer any questions you might have, so don't hesitate to reach out to me on Twitter @DevByRayRay. I look forward to connecting with you!
+Hello there! My name is Ray, and I'm a Tech Lead (specializing in Frontend) based in the Netherlands. 
+
+I've worked in this field since 2009 and am passionate about all things front-end development, including JavaScript, TypeScript, Angular, CSS, TypeScript, VueJS, Nuxt.js, and Tailwind CSS. To read more about these topics, check out my [blog](http://byrayray.dev). I'm always happy to engage in meaningful discussions and answer any questions you might have, so don't hesitate to contact me on Twitter [@DevByRayRay](https://twitter.com/devbyrayray).
+
+I look forward to connecting with you!
 
 *   🌍  I'm based in The Netherlands
 *   🖥️  See my portfolio at [blog](http://byrayray.dev)
@@ -64,11 +68,3 @@ Hello there! My name is Ray and I'm a Frontend Developer based in the Netherland
 <a href="https://www.twitter.com/devbyrayray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
----
-
-### Badges <b>My GitHub Stats</b>
-
-<p align="left">
-<a href="http://www.github.com/devbyray"><img src="https://github-readme-stats.vercel.app/api?username=devbyray&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devbyray's GitHub stats" /></a><a
-href="http://www.github.com/devbyray"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=devbyray&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/devbyray" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyray&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
